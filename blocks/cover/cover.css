@@ -1,0 +1,19 @@
+.cover {
+  max-width: 1184px;
+  min-height: 740px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../../images/do-baykala-na-sobakah.jpg');
+  background-size: cover;
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+@media screen and (max-width: 1279px) {
+  .cover {
+  width: 100vw;
+  max-width: 100%;
+  min-height: 62.5vw;
+  }
+}
+
