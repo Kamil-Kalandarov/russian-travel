@@ -7,9 +7,6 @@
   color: #fff;
   margin: 0;
 }
-.header__lang-link:last-child {
-  padding-right: 0;
-}
 .header__lang-link:hover {
   opacity: 80%;
 }
