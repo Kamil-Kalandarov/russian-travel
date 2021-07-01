@@ -1,22 +1,17 @@
-.page__section_narrow {
+.page__section_width_narrow {
   max-width: 1080px;
   padding-top: 56px;
 }
 @media screen and (max-width: 1279px) {
-  .page__section_narrow {
+  .page__section_width_narrow {
     padding-top: 48px;
     padding-right: 48px;
     padding-left: 48px;
   }
 }
 @media screen and (max-width: 1023px) {
-  .page__section_narrow {
+  .page__section_width_narrow {
     padding-right: 0;
     padding-left: 0;
-  }
-}
-@media screen and (max-width: 767px) {
-  .page__section_narrow {
-    
   }
 }

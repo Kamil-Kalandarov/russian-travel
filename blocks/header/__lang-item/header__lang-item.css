@@ -1,0 +1,9 @@
+.header__lang-item {
+  padding-right: 18px;
+  padding-top: 18px;
+}
+@media screen and (max-width: 767px) {
+  .header__lang-item {
+    padding-top: 14px;
+  }
+}
