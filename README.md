@@ -1,11 +1,31 @@
-# Проект: Путешествие по России
+**<h1 align='center'>Путшествие по России</h1>**
+**<h2 align='center'>Сайт путеводитель для путшествий по России</h2>**
 
-Данный проект рассказывает о культурно-природном богатстве нашей страны, призывает россиян посетить красивые места и дает веские на то причины, поедоставляя пользователю довльно подробную информацию о кадом из этих мест, как описательно характера, так и в виде фотографий. Также в данном проекте имееются ссылки на источники, где можно получить исчерпывающую инфрмацию о каждом и описываемы мест.
+## **Оглавление:**
+- [Стек технологий](#techologies);
+- [Установка](#getting-started); 
+- [Мои контакты](#contacts);
 
-При разработке данного проекта использовались следующие инструменты:
-- Grid Layout;
-- Flex;
-- Overlay;
+## <a name='techologies'>**Стек технологий:**</a>
+ <img src="https://img.shields.io/badge/HTML-696969?style=for-the-badge&logo=HTML5&logoColor=#F7DF1E"> 
+<img src="https://img.shields.io/badge/CSS3-696969?style=for-the-badge&logo=CSS3&logoColor=blue">
+ <img src="https://img.shields.io/badge/github-696969?style=for-the-badge&logo=github&logoColor=#F7DF1E">
 
-При создании данного проекта я более подробно изучил и применил на практике знания использования Грид-сетки, что очень облегчает работку при вертсе.
-Ссылка на проект: https://kamil-kalandarov.github.io/russian-travel/
+## <a name='getting-started'>**Установка:**</a>
+
+- клонируйте себе репозиторий, введя в терминале:
+  ``` 
+  git clone https://github.com/Kamil-Kalandarov/russian-travel
+  ```
+- скачайте расширеине Live Server для VSCode
+- запустите локальный сервер, кликнув в нижнем левом углу `Go live`
+- начните свое путешествие
+
+ссылка на Demo проекта [Russin-Travel](https://kamil-kalandarov.github.io/russian-travel/)
+
+## <a name='contacts'>**Мои контакты:**</a>
+[<img src="https://img.shields.io/badge/Telegram-696969?style=for-the-badge&logo=Telegram&logoColor=#F7DF1E">](https://t.me/Kamil_Kalandarov) 
+
+[<img src="https://img.shields.io/badge/VK-696969?style=for-the-badge&logo=VK&logoColor=#F7DF1E">](https://vk.com/default1313)
+
+Адрес электронной почты: iam@kalandarov-13.ru
