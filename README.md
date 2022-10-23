@@ -7,9 +7,7 @@
 - [Мои контакты](#contacts);
 
 ## <a name='techologies'>**Стек технологий:**</a>
- <img src="https://img.shields.io/badge/HTML-696969?style=for-the-badge&logo=HTML5&logoColor=#F7DF1E"> 
-<img src="https://img.shields.io/badge/CSS3-696969?style=for-the-badge&logo=CSS3&logoColor=blue">
- <img src="https://img.shields.io/badge/github-696969?style=for-the-badge&logo=github&logoColor=#F7DF1E">
+ <img src="https://img.shields.io/badge/HTML-696969?style=for-the-badge&logo=HTML5&logoColor=#F7DF1E"> <img src="https://img.shields.io/badge/CSS3-696969?style=for-the-badge&logo=CSS3&logoColor=blue"> <img src="https://img.shields.io/badge/github-696969?style=for-the-badge&logo=github&logoColor=#F7DF1E">
 
 ## <a name='getting-started'>**Установка:**</a>
 
