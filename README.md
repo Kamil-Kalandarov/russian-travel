@@ -19,7 +19,7 @@
 - запустите локальный сервер, кликнув в нижнем левом углу `Go live`
 - начните свое путешествие
 
-ссылка на Demo проекта [Russin-Travel](https://kamil-kalandarov.github.io/russian-travel/)
+## **ссылка на Demo проекта [Russin-Travel](https://kamil-kalandarov.github.io/russian-travel/)**
 
 ## <a name='contacts'>**Мои контакты:**</a>
 [<img src="https://img.shields.io/badge/Telegram-696969?style=for-the-badge&logo=Telegram&logoColor=#F7DF1E">](https://t.me/Kamil_Kalandarov) 
