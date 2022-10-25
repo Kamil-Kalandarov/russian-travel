@@ -1,9 +1,10 @@
 **<h1 align='center'>Путшествие по России</h1>**
-**<h2 align='center'>Сайт путеводитель для путшествий по России</h2>**
+**<h2 align='center'>Сайт путеводитель для путешествий по России</h2>**
 
 ## **Оглавление:**
 - [Стек технологий](#techologies);
 - [Установка](#getting-started); 
+- [Demo](#demo-link);
 - [Мои контакты](#contacts);
 
 ## <a name='techologies'>**Стек технологий:**</a>
@@ -19,7 +20,7 @@
 - запустите локальный сервер, кликнув в нижнем левом углу `Go live`
 - начните свое путешествие
 
-## **ссылка на Demo проекта [Russin-Travel](https://kamil-kalandarov.github.io/russian-travel/)**
+## <a name="demo-link">**ссылка на Demo проекта** [Russin-Travel](https://kamil-kalandarov.github.io/russian-travel/)</a>
 
 ## <a name='contacts'>**Мои контакты:**</a>
 [<img src="https://img.shields.io/badge/Telegram-696969?style=for-the-badge&logo=Telegram&logoColor=#F7DF1E">](https://t.me/Kamil_Kalandarov) 
